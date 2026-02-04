@@ -1,6 +1,9 @@
 # shiny <img src="man/figures/logo.png" align="right" width=120 height=139 alt="" />
 
 ##Tämä on avoimenlähdekoodin ohjelmistokehityksen projektityö
+##MOIKKA
+##MOI
+
 
 ##Testi
 
