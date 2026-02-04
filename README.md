@@ -1,6 +1,7 @@
 # shiny <img src="man/figures/logo.png" align="right" width=120 height=139 alt="" />
 
 ##Tämä on avoimenlähdekoodin ohjelmistokehityksen projektityö
+##MOIKKA
 
 <!-- badges: start -->
 [![CRAN](https://www.r-pkg.org/badges/version/shiny)](https://CRAN.R-project.org/package=shiny)
