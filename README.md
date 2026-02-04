@@ -2,6 +2,8 @@
 
 ##Tämä on avoimenlähdekoodin ohjelmistokehityksen projektityö
 ##MOIKKA
+##MOI
+
 
 <!-- badges: start -->
 [![CRAN](https://www.r-pkg.org/badges/version/shiny)](https://CRAN.R-project.org/package=shiny)
